@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  align-items: center;
+}
+div {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.Foto {
+  width: 30vw;
+}
