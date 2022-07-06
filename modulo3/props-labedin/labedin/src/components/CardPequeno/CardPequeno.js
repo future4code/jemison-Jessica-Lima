@@ -14,4 +14,4 @@ function CardPequeno(props) {
 }
 
 
-export default CardPequeno
+export default CardPequen0

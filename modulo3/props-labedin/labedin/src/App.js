@@ -12,7 +12,7 @@ function App() {
         <CardGrande 
           imagem="file:///C:/Users/ADMIN/OneDrive/Imagens/Fotos/Minhas/received_134898960683231.jpeg"
           nome="Jéssica Pereira" 
-          descricao="Oi, eu sou a Jéssica. Sou aluna da labenu, estou apanhando muito para aprender os conteúdos, porém estou gostando bastante do curso de programação."
+          descricao="Oi, eu sou a Jéssica. Sou aluna da labenu, estou apanhando muito para aprender os conteúdos, porém estou gostando bastante do curso de programação, full stack."
         />
         
         <ImagemButton 
